@@ -1,0 +1,23 @@
+superstore-sales-sql/
+│
+├── README.md
+│
+├── schema/
+│   └── 01_create_tables.sql
+│
+├── load/
+│   └── 02_load_csv.sql
+│
+├── cleaning/
+│   └── 03_data_cleaning.sql
+│
+├── analysis/
+│   ├── 04_revenue_profit.sql
+│   ├── 05_trends.sql
+│   ├── 06_customer_product.sql
+│
+├── optimization/
+│   └── 07_indexes.sql
+│
+└── screenshots/
+    └── results.png
